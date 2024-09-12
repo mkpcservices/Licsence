@@ -1,5 +1,5 @@
 # Licence
-license 
+license-APACHE-LICENSE-2.0
 
 Copyright [2024] Marcus Perez
 Licensed under the Apache License, Version 2.0 (the "License");
